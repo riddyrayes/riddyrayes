@@ -135,6 +135,38 @@ This fairly rigorous but very entertaining set of lectures (where the instructor
 1. [ ] 2-21 Implicit Function Theorem
 1. [ ] 2-22 Proof of Inverse Function Theorem
 1. [ ] 2-23 Implicit Function Theorem
+1. [ ] 2-24 Examples using different definitions of manifolds
+1. [ ] 2-25 Differential forms
+1. [ ] 2-26 Differential forms, the multilinear setup
+1. [ ] 2-27 Differential forms and the exterior derivative
+1. [ ] 2-28 Pullback
+1. [ ] 2-29 Proofs of the properties of the exterior derivative
+1. [ ] 2-30 Change of Variable Thm, Line Integrals
+1. [ ] 2-31 Work
+1. [ ] 2-32 Potential functions
+1. [ ] 2-33 Finding a potential function
+1. [ ] 2-34 Green's Theorem
+1. [ ] 2-35 Surface integrals
+1. [ ] 2-36 Surface integral calculations
+1. [ ] 2-37 Stokes' Theorem
+1. [ ] 2-38 Using Stokes' Theorem
+1. [ ] 2-39 Examples of Stokes' Theorem
+1. [ ] 2-40 4-dimensions
+1. [ ] 2-41 Proof of Stokes' Theorem, part 1
+1. [ ] 2-42 Stokes' Thm Proof and Connections
+1. [ ] 2-43 Gauss' Law
+1. [ ] 2-44 Journey Though the Center of the Earth
+1. [ ] 2-45 Applications to Topology
+1. [ ] 2-46 Applications to Topology
+1. [ ] 2-47 Change of Basis
+1. [ ] 2-48 Eigenvalues and Eigenvectors
+1. [ ] 2-49 Eigenvalues and eigenvectors
+1. [ ] 2-50 Eigenvalues and eigenvectors
+1. [ ] 2-51 Applications
+1. [ ] 2-52 Applications to differential equations
+1. [ ] 2-53 Applications to differential equations
+1. [ ] 2-54 Spectral Theorem
+1. [ ] 2-55 Last day
 
 ## Outline
 
