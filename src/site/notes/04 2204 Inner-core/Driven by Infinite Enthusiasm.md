@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-2204-inner-core/driven-by-infinite-enthusiasm/"}
+{"dg-publish":true,"dg-permalink":"driven_by_infinite_enthusiasm","permalink":"/driven_by_infinite_enthusiasm/"}
 ---
 
 
