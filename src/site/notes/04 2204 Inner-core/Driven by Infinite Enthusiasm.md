@@ -31,85 +31,85 @@ This fairly rigorous but very entertaining set of lectures (where the instructor
 - The textbook [Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds](http://library.lol/main/C06BD3E524B1C615AB21927FF8CC490A)
 
 
-1. [ ] 1-1 Introduction to Vectors
-1. [ ] 1-2 Vectors and Geometric Proofs
-1. [ ] 1-3 Dot Product and Projection
-1. [ ] 1-4 Triangle Inequality and Cauchy-Schwarz
-1. [ ] 1-5 Subspaces
-1. [ ] 1-6 Subspaces (cont.)
-1. [ ] 1-7 Linear Maps
-1. [ ] 1-8 Linear Maps continued
-1. [ ] 1-9 Transpose and Inverse
-1. [ ] 1-10 Inverse (cont.) & Determinants
-1. [ ] 1-11 Determinants and Cross Product
-1. [ ] 1-12 Intro to non-linear functions, parametric equations of curves.
-1. [ ] 1-13 Curves (cont.), Graphs, and Level Surfaces
-1. [ ] 1-14 Level Surfaces, Vector Fields, & Balls in $\mathbb R^n$
-1. [ ] 1-15 Open Sets in $\mathbb R^n$
-1. [ ] 1-16 Sequences and Closed Sets
-1. [ ] 1-17 Limits, part 1
-1. [ ] 1-18 Limits Continued
-1. [ ] 1-19 Continuity and Sequences
-1. [ ] 1-20 Continuity and Preimages
-1. [ ] 1-21 Partial and Directional Derivatives
-1. [ ] 1-22 Directional Derivatives and Differentiability
-1. [ ] 1-23 Differentiability
-1. [ ] 1-24 Differentiability Continued
-1. [ ] 1-25 Chain Rule
-1. [ ] 1-26 The Gradient
-1. [ ] 1-27 Gradient & Chain Rule
-1. [ ] 1-28 Kepler's Laws & Arclength
-1. [ ] 1-29 Arclength & Higher-Order Partial Derivatives
-1. [ ] 1-30 Row Operations & Echelon Form
-1. [ ] 1-31 Rank & Consistency
-1. [ ] 1-32 Linear Systems & Echelon Form Cont.
-1. [ ] 1-33 Nonsingularity & Invertibility
-1. [ ] 1-34 Elementary Matrices
-1. [ ] 1-35 Linear Independence & Basis
-1. [ ] 1-36 Dimension and Consequences
-1. [ ] 1-37 The Four Fundamental Subspaces
-1. [ ] 1-38 The Four Fundamental Subspaces, cont.
-1. [ ] 1-39 Intro to Implicit Function Theorem, pt 1
-1. [ ] 1-40 Implicit Function Theorem and Manifolds, pt II
-1. [ ] 1-41 Compactness and Max Value Theorem
-1. [ ] 1-42 Norm of a Linear Map
-1. [ ] 1-43 Proof of the Maximum Value Theorem
-1. [ ] 1-44 Critical Points and Max/Min Problems
-1. [ ] 1-45 Max/Min Problems Continued
-1. [ ] 1-46 Max/Min Problems, Non-compact Case
-1. [ ] 1-47 Quadratic Forms & Completing the Square
-1. [ ] 1-48 The Second Derivative Test
-1. [ ] 1-49 Proof of Second Derivative Test, pt 1
-1. [ ] 1-50 Proof of Second Derivative Test, pt II + Lagrange Multipliers
-1. [ ] 1-51 Lagrange Multipliers, part 2
-1. [ ] 1-52 Lagrange Multipliers, pt 3
-1. [ ] 1-53 Inconsistent Systems, the Normal Equations
-1. [ ] 1-54 Projections and Max/Min
-1. [ ] 1-55 Gram-Schmidt & Lagrange Interpolation
-1. [ ] 1-56 Intro to Fourier Series
-1. [ ] 2-1 Intro to integration
-1. [ ] 2-2 Multiple Integrals
-1. [ ] 2-3 Multiple integrals
-1. [ ] 2-4 Iterated Integrals
-1. [ ] 2-5 Fubini's Theorem
-1. [ ] 2-6 Fubini's Theorem
-1. [ ] 2-7 Proof of Fubini's Theorem
-1. [ ] 2-8 Polar Coordinates
-1. [ ] 2-9 Polar Coordinates
-1. [ ] 2-10 Cylindrical and Spherical Coordinates
-1. [ ] 2-11 Physical applications
-1. [ ] 2-12 Determinants in n-dimensions
-1. [ ] 2-13 Determinants in n-dimensions
-1. [ ] 2-14 Cramer's Rule and a formula for A inverse
-1. [ ] 2-15 Change of variables in multiple integrals
-1. [ ] 2-16 Change of variables in multiple integrals
-1. [ ] 2-17Change of variables, proof
-1. [ ] 2-18 The Contraction Mapping Principle
-1. [ ] 2-19 Contraction Mapping Principle Proof & Newton's Method
-1. [ ] 2-20 The Inverse Function Theorem
-1. [ ] 2-21 Implicit Function Theorem
-1. [ ] 2-22 Proof of Inverse Function Theorem
-1. [ ] 2-23 Implicit Function Theorem
+- [ ] 1-1 Introduction to Vectors
+- [ ] 1-2 Vectors and Geometric Proofs
+- [ ] 1-3 Dot Product and Projection
+- [ ] 1-4 Triangle Inequality and Cauchy-Schwarz
+- [ ] 1-5 Subspaces
+- [ ] 1-6 Subspaces (cont.)
+- [ ] 1-7 Linear Maps
+- [ ] 1-8 Linear Maps continued
+- [ ] 1-9 Transpose and Inverse
+- [ ] 1-10 Inverse (cont.) & Determinants
+- [ ] 1-11 Determinants and Cross Product
+- [ ] 1-12 Intro to non-linear functions, parametric equations of curves.
+- [ ] 1-13 Curves (cont.), Graphs, and Level Surfaces
+- [ ] 1-14 Level Surfaces, Vector Fields, & Balls in $\mathbb R^n$
+- [ ] 1-15 Open Sets in $\mathbb R^n$
+- [ ] 1-16 Sequences and Closed Sets
+- [ ] 1-17 Limits, part 1
+- [ ] 1-18 Limits Continued
+- [ ] 1-19 Continuity and Sequences
+- [ ] 1-20 Continuity and Preimages
+- [ ] 1-21 Partial and Directional Derivatives
+- [ ] 1-22 Directional Derivatives and Differentiability
+- [ ] 1-23 Differentiability
+- [ ] 1-24 Differentiability Continued
+- [ ] 1-25 Chain Rule
+- [ ] 1-26 The Gradient
+- [ ] 1-27 Gradient & Chain Rule
+- [ ] 1-28 Kepler's Laws & Arclength
+- [ ] 1-29 Arclength & Higher-Order Partial Derivatives
+- [ ] 1-30 Row Operations & Echelon Form
+- [ ] 1-31 Rank & Consistency
+- [ ] 1-32 Linear Systems & Echelon Form Cont.
+- [ ] 1-33 Nonsingularity & Invertibility
+- [ ] 1-34 Elementary Matrices
+- [ ] 1-35 Linear Independence & Basis
+- [ ] 1-36 Dimension and Consequences
+- [ ] 1-37 The Four Fundamental Subspaces
+- [ ] 1-38 The Four Fundamental Subspaces, cont.
+- [ ] 1-39 Intro to Implicit Function Theorem, pt 1
+- [ ] 1-40 Implicit Function Theorem and Manifolds, pt II
+- [ ] 1-41 Compactness and Max Value Theorem
+- [ ] 1-42 Norm of a Linear Map
+- [ ] 1-43 Proof of the Maximum Value Theorem
+- [ ] 1-44 Critical Points and Max/Min Problems
+- [ ] 1-45 Max/Min Problems Continued
+- [ ] 1-46 Max/Min Problems, Non-compact Case
+- [ ] 1-47 Quadratic Forms & Completing the Square
+- [ ] 1-48 The Second Derivative Test
+- [ ] 1-49 Proof of Second Derivative Test, pt 1
+- [ ] 1-50 Proof of Second Derivative Test, pt II + Lagrange Multipliers
+- [ ] 1-51 Lagrange Multipliers, part 2
+- [ ] 1-52 Lagrange Multipliers, pt 3
+- [ ] 1-53 Inconsistent Systems, the Normal Equations
+- [ ] 1-54 Projections and Max/Min
+- [ ] 1-55 Gram-Schmidt & Lagrange Interpolation
+- [ ] 1-56 Intro to Fourier Series
+- [ ] 2-1 Intro to integration
+- [ ] 2-2 Multiple Integrals
+- [ ] 2-3 Multiple integrals
+- [ ] 2-4 Iterated Integrals
+- [ ] 2-5 Fubini's Theorem
+- [ ] 2-6 Fubini's Theorem
+- [ ] 2-7 Proof of Fubini's Theorem
+- [ ] 2-8 Polar Coordinates
+- [ ] 2-9 Polar Coordinates
+- [ ] 2-10 Cylindrical and Spherical Coordinates
+- [ ] 2-11 Physical applications
+- [ ] 2-12 Determinants in n-dimensions
+- [ ] 2-13 Determinants in n-dimensions
+- [ ] 2-14 Cramer's Rule and a formula for A inverse
+- [ ] 2-15 Change of variables in multiple integrals
+- [ ] 2-16 Change of variables in multiple integrals
+- [ ] 2-17Change of variables, proof
+- [ ] 2-18 The Contraction Mapping Principle
+- [ ] 2-19 Contraction Mapping Principle Proof & Newton's Method
+- [ ] 2-20 The Inverse Function Theorem
+- [ ] 2-21 Implicit Function Theorem
+- [ ] 2-22 Proof of Inverse Function Theorem
+- [ ] 2-23 Implicit Function Theorem
 
 ## Outline
 
@@ -120,7 +120,7 @@ The set of lectures is actually a two semester course, with mixed together descr
 
 - [Homepage](http://alpha.math.uga.edu/~shifrin/MATH3500/)
 - [Course Syllabus](http://alpha.math.uga.edu/~shifrin/MATH3500/3500Syllabus14.pdf)
-1. Vector algebra and geometry, matrices, linear maps, determinants.
+- Vector algebra and geometry, matrices, linear maps, determinants.
 2. Functions, limits, continuity; the derivative.
 3. Solving linear systems: Gaussian elimination, linear independence, basis and dimension. What is
 a manifold?
@@ -184,48 +184,48 @@ Students who would like some guidance in reading and writing proofs might want t
 
 ## Course Outline
 
-1. [ ] Introduction
-1. [ ] Newtonian mechanics
-1. [ ] Dynamics in phase space
-1. [ ] Linear dynamical systems
-1. [ ] Autonomous dynamical systems (Part 1)
-1. [ ] Autonomous dynamical systems (Part 2)
+- [ ] Introduction
+- [ ] Newtonian mechanics
+- [ ] Dynamics in phase space
+- [ ] Linear dynamical systems
+- [ ] Autonomous dynamical systems (Part 1)
+- [ ] Autonomous dynamical systems (Part 2)
 > Lagrangian
-1. [ ] Lagrangian formalism
-1. [ ] Summary of classical electromagnetism
-1. [ ] Charged particle in an electromagnetic field
+- [ ] Lagrangian formalism
+- [ ] Summary of classical electromagnetism
+- [ ] Charged particle in an electromagnetic field
 > Hamiltonian
-1. [ ] Hamiltonian dynamics (Part 1)
-1. Hamiltonian dynamics (Part 2)
-1. Hamiltonian dynamics (Part 3)
-1. Dynamical symmetry (Part 1)
-1. Dynamical symmetry (Part 2)
-1. Randomness in phase space; chaos
-1. Discrete-time dynamics: maps (Part 1)
-1. Discrete-time dynamics: maps (Part 2)
-1. Problems and solutions (Part 1)
-1. Problems and solutions (Part 2)
+- [ ] Hamiltonian dynamics (Part 1)
+- [ ] Hamiltonian dynamics (Part 2)
+- [ ] Hamiltonian dynamics (Part 3)
+- [ ] Dynamical symmetry (Part 1)
+- [ ] Dynamical symmetry (Part 2)
+- [ ] Randomness in phase space; chaos
+- [ ] Discrete-time dynamics: maps (Part 1)
+- [ ] Discrete-time dynamics: maps (Part 2)
+- [ ] Problems and solutions (Part 1)
+- [ ] Problems and solutions (Part 2)
 > Stat Mech
-1. [ ] Classical statistical mechanics: Introduction
-1. [ ] Some probability distributions; isolated system
-1. [ ] The microcanonical emsemble
-1. [ ] Thermodynamics
-1. [x] The canonical ensemble
-1. [ ] Connection between statistical mechanics and ther-modynamics
-1. [ ] Probability distributions
-1. [ ] Probability distributions (concld.). Phase transitions (Part 1)
-1. [ ] Phase transitions (Part 2)
-1. [ ] Phase transitions (Part 3)
-1. [ ] Phase transitions (Part 4); misc. topics
-1. Problems and solutions (Part 3)
+- [ ] Classical statistical mechanics: Introduction
+- [ ] Some probability distributions; isolated system
+- [ ] The microcanonical emsemble
+- [ ] Thermodynamics
+- [ ] The canonical ensemble
+- [ ] Connection between statistical mechanics and ther-modynamics
+- [ ] Probability distributions
+- [ ] Probability distributions (concld.). Phase transitions (Part 1)
+- [ ] Phase transitions (Part 2)
+- [ ] Phase transitions (Part 3)
+- [ ] Phase transitions (Part 4); misc. topics
+- [ ] Problems and solutions (Part 3)
 > Symmetry and Special relativity
-1. Continuous groups in physics (Part 1)
-1. Continuous groups in physics (Part 2)
-1. Continuous groups in physics (Part 3)
-1. Noether's Theorem. Special Relativity (Part 1)
-1. Special Relativity (Part 2)
-1. Special Relativity (Part 3)
-1. Special Relativity (Part 4)
+- [ ] Continuous groups in physics (Part 1)
+- [ ] Continuous groups in physics (Part 2)
+- [ ] Continuous groups in physics (Part 3)
+- [ ] Noether's Theorem. Special Relativity (Part 1)
+- [ ] Special Relativity (Part 2)
+- [ ] Special Relativity (Part 3)
+- [ ] Special Relativity (Part 4)
 
 
 ## Lecture wise References
@@ -278,7 +278,7 @@ _Symmetry, invariance and conservation principles._ Importance of symmetries in 
 
 **Text Books:**
 
-1.  D.T. Greenwood, _Classical Dynamics_, Prentice-Hall, New Delhi,1985
+-  D.T. Greenwood, _Classical Dynamics_, Prentice-Hall, New Delhi,1985
 2.  W. Greiner, _Classical Mechanics: Systems of Particles and Hamiltonian Dynamics_, Springer-Verlag, New York, 2003.
 3.  L. N. Hand and J. D. Finch, _Analytical Mechanics_, Cambridge University Press, Cambridge, 1998.
 4.  F. Reif, _Fundamentals of Statistical and Thermal Physics_, McGraw-Hill International Student Edition, New York, 1988.
@@ -287,7 +287,7 @@ _Symmetry, invariance and conservation principles._ Importance of symmetries in 
 
 **References:**
 
-1.  T. W. B. Kibble and F. H. Berkshire, Classical Mechanics, 5th edition, Imperial College Press, London, 2004.
+-  T. W. B. Kibble and F. H. Berkshire, Classical Mechanics, 5th edition, Imperial College Press, London, 2004.
 2.  D. Kleppner and R. J. Kolenkow, _An Introduction to Mechanics_, Tata McGraw-Hill, New Delhi, 1999.
 3.  S. T. Thornton and J. B. Marion, _Classical Dynamics of Particles and Systems_, Brooks Cole, 2003.
 4.  C. Kittel, _Elementary Statistical Physics_, Wiley, New York, 1966.
