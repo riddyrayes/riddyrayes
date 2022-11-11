@@ -5,10 +5,21 @@
 
 # Driven by Infinite Enthusiasm 
 
-- Complete each lecture and tick the check box. 
-- Make lecture notes in physical notebook.
-	- Scan the lecture notes as PDF into one file and save it inside your vault.
-
+- Which lectures?
+	- Linear Algebra and Multivariable Calculus by Shifrin (added below)
+	- Classical Physics by Balki (added below)
+	- Quantum Physics by Balki
+	- (short) Mechanics using the Action by T Paddy
+	- Differential Geometry	by Claudio Arezzo 
+	- Abstract Algebra by Benedict Gross 
+	- General Relativity by T Paddy
+- How to do lectures?
+	- Complete each lecture and tick the check box. 
+	- Make lecture notes in physical notebook.
+		- Scan the lecture notes as PDF into one file and save it inside your vault.
+- Look here:
+	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
+	-  [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 
 # Linear Algebra and Multivariable Calculus 
 
