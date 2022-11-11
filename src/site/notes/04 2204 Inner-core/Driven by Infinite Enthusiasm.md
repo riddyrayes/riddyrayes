@@ -18,14 +18,19 @@
 	- (book) LandauL volumes I and II
 		- I - for mechanics 
 		- II - absolute necessary for special relativity and electrodynamics, and GR
+	- there’s no introduction to electrodynamics better than Paddy and LandauL
+		- for more theory Griffiths, Jackson(F)
 - How to do lectures?
 	- Complete each lecture and tick the check box. 
 	- Make lecture notes in physical notebook.
 		- Scan the lecture notes as PDF into one file and save it inside your vault.
+		- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
+		- Filling pages upon pages and never returning back onto them is NOT the process. Return to the notes, think, and solve your own questions.
 - Look here:
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
 	-  [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- [20 prerequisites for Quantum Mechanics (Non-relativistic) (riddyrayes.github.io)](https://riddyrayes.github.io/notes/20-prerequisites-for-quantum-mechanics/)
+	- (book) Paddy - Theoretical Astrophysics volumes I, II & III
 
 # Linear Algebra and Multivariable Calculus 
 
