@@ -31,6 +31,9 @@
 	-  [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- [20 prerequisites for Quantum Mechanics (Non-relativistic) (riddyrayes.github.io)](https://riddyrayes.github.io/notes/20-prerequisites-for-quantum-mechanics/)
 	- (book) Paddy - Theoretical Astrophysics volumes I, II & III
+- Watch (any one or all even) these one lecture and tell me how can you not love this!! (don’t pay attention to the name of the video)
+	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
+	- [History of Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/watch?v=XxFGokyYo6g)
 
 # Linear Algebra and Multivariable Calculus 
 
