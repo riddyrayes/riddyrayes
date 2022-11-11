@@ -5,14 +5,19 @@
 
 # Driven by Infinite Enthusiasm 
 
-- Which lectures?
+- Which lectures? (order is not strict)
 	- Linear Algebra and Multivariable Calculus by Shifrin (added below)
 	- Classical Physics by Balki (added below)
+	- Non-linear dynamics by Balki
+	- < fluid mechanics >
 	- Quantum Physics by Balki
 	- (short) Mechanics using the Action by T Paddy
 	- Differential Geometry	by Claudio Arezzo 
 	- Abstract Algebra by Benedict Gross 
 	- General Relativity by T Paddy
+	- (book) LandauL volumes I and II
+		- I - for mechanics 
+		- II - absolute necessary for special relativity and electrodynamics, and GR
 - How to do lectures?
 	- Complete each lecture and tick the check box. 
 	- Make lecture notes in physical notebook.
@@ -20,6 +25,7 @@
 - Look here:
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
 	-  [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
+	- [20 prerequisites for Quantum Mechanics (Non-relativistic) (riddyrayes.github.io)](https://riddyrayes.github.io/notes/20-prerequisites-for-quantum-mechanics/)
 
 # Linear Algebra and Multivariable Calculus 
 
