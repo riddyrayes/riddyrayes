@@ -176,3 +176,135 @@ Students who would like some guidance in reading and writing proofs might want t
 - [Homework Assignment #11](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework11.pdf)
 - [Homework Assignment #12](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework12.pdf)  
 - [Homework Assignment #13](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework13.pdf) 
+
+
+# V Balakrishnan: Classical Physics
+
+<iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Course Outline
+
+1. [ ] Introduction
+1. [ ] Newtonian mechanics
+1. [ ] Dynamics in phase space
+1. [ ] Linear dynamical systems
+1. [ ] Autonomous dynamical systems (Part 1)
+1. [ ] Autonomous dynamical systems (Part 2)
+> Lagrangian
+1. [ ] Lagrangian formalism
+1. [ ] Summary of classical electromagnetism
+1. [ ] Charged particle in an electromagnetic field
+> Hamiltonian
+1. [ ] Hamiltonian dynamics (Part 1)
+1. Hamiltonian dynamics (Part 2)
+1. Hamiltonian dynamics (Part 3)
+1. Dynamical symmetry (Part 1)
+1. Dynamical symmetry (Part 2)
+1. Randomness in phase space; chaos
+1. Discrete-time dynamics: maps (Part 1)
+1. Discrete-time dynamics: maps (Part 2)
+1. Problems and solutions (Part 1)
+1. Problems and solutions (Part 2)
+> Stat Mech
+1. [ ] Classical statistical mechanics: Introduction
+1. [ ] Some probability distributions; isolated system
+1. [ ] The microcanonical emsemble
+1. [ ] Thermodynamics
+1. [x] The canonical ensemble
+1. [ ] Connection between statistical mechanics and ther-modynamics
+1. [ ] Probability distributions
+1. [ ] Probability distributions (concld.). Phase transitions (Part 1)
+1. [ ] Phase transitions (Part 2)
+1. [ ] Phase transitions (Part 3)
+1. [ ] Phase transitions (Part 4); misc. topics
+1. Problems and solutions (Part 3)
+> Symmetry and Special relativity
+1. Continuous groups in physics (Part 1)
+1. Continuous groups in physics (Part 2)
+1. Continuous groups in physics (Part 3)
+1. Noether's Theorem. Special Relativity (Part 1)
+1. Special Relativity (Part 2)
+1. Special Relativity (Part 3)
+1. Special Relativity (Part 4)
+
+
+## Lecture wise References
+- For Mod-01-Lec-02, 07
+	- Thornton and Marion. Classical Dynamics.
+- For Mod-01-Lec-03, 04, 05, 06
+	-   V. I. Arnold. Mathematical Methods of Classical Mechanics.
+- For Mod-01-Lec-08, 09
+	-   David J. Griffiths. Introduction to Electrodynamics. (chapter 10 in 4th edition)
+- For Mod-01-Lec-10, 11, 12
+	-   V. I. Arnold. Mathematical Methods of Classical Mechanics.
+- For Mod-01-Lec-13, 14
+	-   Goldstein. Classical Mechanics.
+- For Mod-01-Lec-15, 16, 17
+	-   Stephen Wiggins. Introduction to Applied Nonlinear Dynamical Systems and Chaos. (published by Springer)
+- For Mod-01-Lec-20, 21, 22, 23, 24, 25, 26
+	-   F. Reif. Fundamentals of Statistical and Thermal Physics
+	-   R. K. Pathria and Paul D. Beale. Statistical Mechanics.
+- For Mod-01-Lec-27, 28, 29, 30
+	-   J. M. Yeomans. Statistical Mechanics of Phase Transitions.
+	-   H. Eugene Stanley. Introduction to Phase Transitions and Critical Phenomena
+- For Mod-01-Lec-32, 33, 34
+	-   V. Balakrishnan. A Miscellany of Mathematical Physics. (published by Indian Academy of Sciences, 2008).
+	-   V. Balakrishnan. Mathematical Physics. (published by Ane Books, 2017).
+- For Mod-01-Lec-35, 36, 37, 38
+	-   Goldstein. Classical Mechanics.
+	-   Robert Resnick. An Introduction to Special Relativity.
+	-   Jeol Franklin. Advanced Mechanics and General Relativity. Cambridge University Press.
+
+## Same course different prof: PH350 Classical Physics (Fall 2009)
+[PH350 Classical Physics (Fall 2009) - Suresh Govindarajan (wikidot.com)](http://sgovindarajan.wikidot.com/2009ph350)
+* PH350 (Classical Physics) is offered to IIT Madras undergraduates as a part of the minor program in Physics.
+* *3 rd year ?*
+* **Objectives:** This is the first course in the Physics minor stream at IIT Madras. It introduces the students to aspects of classical mechanics, statistical physics and to elementary ideas in special relativity.
+
+### Official Course Content
+==_Dynamics in classical phase space:_== degrees of freedom, generalized coordinates and velocities, phase space and phase trajectories. Lagrangian formalism, Euler-Lagrange equations. Generalized momenta, Hamiltonian formulation. Periodic and non-periodic motion. Physics examples.
+
+==_The need for statistical physics._== Coarse-graining of phase space. Density of states for physical systems, examples. Microstates and macrostates. The concept of thermal equilibrium. Ensembles and ensemble averages.
+
+Relationship between thermodynamics and statistical physics.
+
+Ideal and real gases.
+
+Phase transitions. Mean field theory of paramagnet-ferromagnet transition and solid-liquid-gas transitions.
+
+==_Elementary aspects of special relativity_.== The principle and postulate of relativity. Lorentz transformations. Length contraction, time dilation. Addition of velocities. Four-vectors.
+
+_Symmetry, invariance and conservation principles._ Importance of symmetries in physics. Discrete and continuous symmetries. Energy,  momentum and angular momentum conservation. Charge conservation.
+
+**Text Books:**
+
+1.  D.T. Greenwood, _Classical Dynamics_, Prentice-Hall, New Delhi,1985
+2.  W. Greiner, _Classical Mechanics: Systems of Particles and Hamiltonian Dynamics_, Springer-Verlag, New York, 2003.
+3.  L. N. Hand and J. D. Finch, _Analytical Mechanics_, Cambridge University Press, Cambridge, 1998.
+4.  F. Reif, _Fundamentals of Statistical and Thermal Physics_, McGraw-Hill International Student Edition, New York, 1988.
+5.  F. Mandl, _Statistical Physics_, 2nd edition, ELBS & Wiley, New York, 1988.
+6.  R. Resnick, _Introduction to Special Relativity_, Wiley Eastern, New Delhi, 1985.
+
+**References:**
+
+1.  T. W. B. Kibble and F. H. Berkshire, Classical Mechanics, 5th edition, Imperial College Press, London, 2004.
+2.  D. Kleppner and R. J. Kolenkow, _An Introduction to Mechanics_, Tata McGraw-Hill, New Delhi, 1999.
+3.  S. T. Thornton and J. B. Marion, _Classical Dynamics of Particles and Systems_, Brooks Cole, 2003.
+4.  C. Kittel, _Elementary Statistical Physics_, Wiley, New York, 1966.
+5.  A. J. Walton, _Three Phases of Matter_, 2nd edition, Oxford University Press, Oxford, 1989.
+6.  J. M. Yeomans, _Statistical Mechanics of Phase Transitions_, Clarendon Press, Oxford, 1992.
+7.  W. Rindler, _Introduction to Special Relativity_, Oxford University Press, Oxford, 2004.
+8.  E. F. Taylor and J. A. Wheeler, _Spacetime Physics_, W. H. Freeman, San Francisco, 1992.
+9.  A. P. French, _Special Relativity_, W. W. Norton, 1968.
+
+### Course Notes
+
+I plan to include notes (or links to notes by others) on various topics that are discussed in the class [lectures](http://sgovindarajan.wikidot.com/2009ph350lectures).
+
+**Handout 1:** [Scalars, Vectors & Tensors](http://sgovindarajan.wdfiles.com/local--files/2009ph350/handout1.pdf) || **Handout 2:** [Lie groups and Lie algebras](http://sgovindarajan.wdfiles.com/local--files/2009ph350/handout2.pdf) || [Symplectic Matrices](http://sgovindarajan.wikidot.com/notes:symplectic-matrix) || [The state of a system](http://sgovindarajan.wikidot.com/notes:state-of-a-system) || [Recap of Thermodynamics](http://sgovindarajan.wdfiles.com/local--files/2009ph350/RecapofThermodynamics.pdf) || [Phase Transitions](http://sgovindarajan.wikidot.com/notes:phase-transitions) || **Handout 3:** [Phase transitions of real gases](http://sgovindarajan.wdfiles.com/local--files/2009ph350/handout3.pdf)|| [Special Relativity](http://sgovindarajan.wikidot.com/notes:special-relativity) || **Handout 4:** [Electromagnetism and Special Relativity](http://sgovindarajan.wdfiles.com/local--files/2009ph350/handout4.pdf) || **Handout 5:** [Relativistic Kinematics -- the Compton effect](http://sgovindarajan.wdfiles.com/local--files/2009ph350/handout5.pdf)
+
+### Online Resources
+[Prof. J. B. Tatum's book on Heat and Thermodynamics](http://orca.phys.uvic.ca/~tatum/thermod.html)
+[Prof. Somen Bhattacharjee's SERC lectures on Critical Phenomena](http://arxiv.org/abs/cond-mat/0011011) (of a somewhat higher level but the first few sections are worth the effort!)
+[English Translation of Einstein's 1905 SR paper](http://www.fourmilab.ch/etexts/einstein/specrel/www/) — This is worth taking a look.
+
