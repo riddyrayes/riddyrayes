@@ -31,7 +31,7 @@ This fairly rigorous but very entertaining set of lectures (where the instructor
 - The textbook [Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds](http://library.lol/main/C06BD3E524B1C615AB21927FF8CC490A)
 
 
-1. [ ] [[Shifrin.Math7010.L1-01.pdf]]
+1. [ ] 1-1 Introduction to Vectors
 1. [ ] 1-2 Vectors and Geometric Proofs
 1. [ ] 1-3 Dot Product and Projection
 1. [ ] 1-4 Triangle Inequality and Cauchy-Schwarz
