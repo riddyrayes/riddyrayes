@@ -7,24 +7,40 @@
 
 - Which lectures? (order is not strict)
 	- Linear Algebra and Multivariable Calculus by Shifrin (added below)
-	- Classical Physics by Balki (added below)
-	- Non-linear dynamics by Balki
-	- < fluid mechanics >
-	- Quantum Physics by Balki
-	- (short) Mechanics using the Action by T Paddy
-	- Differential Geometry	by Claudio Arezzo 
-	- Abstract Algebra by Benedict Gross 
-	- General Relativity by T Paddy
-	- (book) LandauL volumes I and II
-		- I - for mechanics 
-		- II - absolute necessary for special relativity and electrodynamics, and GR
-	- there’s no introduction to electrodynamics better than Paddy and LandauL
-		- for more theory Griffiths, Jackson(F)
+	- Classical Mechanics, bit of Statistical and Chaos
+		- Classical Physics by Balki (added below)
+		- (book) LandauL volume I 
+		- Non-linear dynamics by Balki
+		- (short) Mechanics using the Action by T Paddy
+	- Some math ✨
+		- Differential Geometry	by Claudio Arezzo 
+		- Abstract Algebra by Benedict Gross 
+	- Do more classical
+		- < fluid mechanics >
+		- (book) LandauL volume II - absolute necessary for special relativity and electrodynamics, and GR
+		- there’s no introduction to electrodynamics better than Paddy and LandauL
+			- for more theory Griffiths, Jackson(F)
+	- (if you wanna do quantum)
+		- Quantum Physics by Balki
+	- Now that you see how deep things are, go back and focus on the details
+		- Construct spaces and do analysis
+			- Tao Analysis vol I, II
+			- Apostol Mathematical Analysis
+			- Rudin Analysis
+		- Go outside of $\mathbb{R}^{n}$
+			- < Manifold theory >
+	- Apply your new-found knowledge
+		- General Relativity by T Paddy
 - How to do lectures?
-	- Complete each lecture and tick the check box. 
-	- Make lecture notes in physical notebook.
-		- Scan the lecture notes as PDF into one file and save it inside your vault.
-		- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
+	- Use https://obsidian.md to organize the amount of content/
+		- Copy the lecture note 
+		- Complete each lecture and tick the check box. 
+	- Make lecture notes
+		- in Obsidian.
+			- you’ll need to learn LaTeX and probably will need a drawing tablet
+		- in physical notebook.
+			- Scan the lecture notes as PDF into one file and save it inside your vault.
+			- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
 		- Filling pages upon pages and never returning back onto them is NOT the process. Return to the notes, think, and solve your own questions.
 - Look here:
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
