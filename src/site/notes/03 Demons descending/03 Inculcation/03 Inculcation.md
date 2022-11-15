@@ -4,3 +4,5 @@
 
 
 # This is not **inception**. This is *inculcation*.
+
+- Start learning: [[03 Demons descending/03 Inculcation/Driven by Infinite Enthusiasm\|Driven by Infinite Enthusiasm]]
