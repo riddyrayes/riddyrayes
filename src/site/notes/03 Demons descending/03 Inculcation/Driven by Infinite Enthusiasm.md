@@ -3,25 +3,34 @@
 ---
 
 
-# Driven by Infinite Enthusiasm 
+# Driven by Infinite Enthusiasm
 
 - Which lectures? (order is not strict)
 	- [[03 Demons descending/03 Inculcation/Driven by Infinite Enthusiasm.Shifrin Multivariable Mathematics\|Linear Algebra and Multivariable Calculus by Shifrin]]
 	- Classical Mechanics, bit of Statistical and Chaos
 		- [[03 Demons descending/03 Inculcation/Driven by Infinite Enthusiasm.VBalki_Classical_Physics\|Classical Physics by Balki]]
 		- (book) LandauL volume I 
-		- Non-linear dynamics by Balki
-		- (short) Mechanics using the Action by T Paddy
+		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) 
+		- (short) [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
 	- Some math ✨ 
 		- Abstract Algebra by Benedict Gross
-		- [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
-	- Do more classical
-		- < fluid mechanics >
-		- (book) LandauL volume II - absolute necessary for special relativity and electrodynamics, and GR
-		- there’s no introduction to electrodynamics better than Paddy and LandauL
-			- for more theory Griffiths, Jackson(F)
-		- General Relativity and Cosmology by T Paddy
-	- (if you wanna do quantum)
+		- [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) - an introduction to a lots of fields of math! (NOT a textbook but a really nice book)
+		- You can definitely do analysis here, its always a inculcating and ever increasing skill and knowledge-base. Jump below and find the references.
+	- I DECREE: DO MORE CLASSICAL!
+		- Fluid mechanics
+			- If you think you know what fluid mechanis is (from school, say), I guarantee that you do not!
+		- Electrodynamics
+			- (book) LandauL volume II - absolute necessary for special relativity and electrodynamics, and GR
+				- there’s no introduction to electrodynamics better than Paddy and LandauL
+			- for more theory Griffiths, and for more pain: Jackson
+			- [[Circuitry\|Circuitry]] (TODO)
+		- GR
+			- for properly doing GR, you’ll need a lot of pre-req, and its all super cool math! But for now a physics taste of the matter will just be smooth.
+			- General Relativity and Cosmology by T Paddy
+	- more math ✨ 
+		- [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+		- “Linear Algebra Done Right” by Sheldon Axler, Sheldon Axler’s Playlist [Linear Algebra Done Right - YouTube](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+	- (only if you wanna do quantum)
 		- Quantum Physics by Balki
 	- Now that you see how deep things are, go back and focus on the details
 		- Construct spaces and do algebra and analysis
