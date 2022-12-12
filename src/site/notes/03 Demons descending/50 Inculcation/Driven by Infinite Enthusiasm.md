@@ -7,6 +7,9 @@
 
 - Which lectures? (order is not strict)
 	- [[03 Demons descending/50 Inculcation/Driven by Infinite Enthusiasm.Shifrin Multivariable Mathematics\|Linear Algebra and Multivariable Calculus by Shifrin]]
+	- Linear Algebra Done Right - Sheldon Axler
+		- [Book website](https://linear.axler.net/), [Third ed pdf](http://library.lol/main/FA472BC434699EFE0F9BD5DC4E2E595E)
+		- [YouTube lectures](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 	- Classical Mechanics, bit of Statistical and Chaos
 		- [[03 Demons descending/50 Inculcation/Driven by Infinite Enthusiasm.VBalki_Classical_Physics\|Classical Physics by Balki]]
 		- (book) LandauL volume I 
