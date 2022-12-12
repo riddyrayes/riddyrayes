@@ -1,0 +1,70 @@
+---
+{"dg-publish":true,"dg-permalink":"driven_by_infinite_enthusiasm","permalink":"/driven_by_infinite_enthusiasm/"}
+---
+
+
+# Driven by Infinite Enthusiasm
+
+- Which lectures? (order is not strict)
+	- [[03 Demons descending/50 Inculcation/Driven by Infinite Enthusiasm.Shifrin Multivariable Mathematics\|Linear Algebra and Multivariable Calculus by Shifrin]]
+	- Classical Mechanics, bit of Statistical and Chaos
+		- [[03 Demons descending/50 Inculcation/Driven by Infinite Enthusiasm.VBalki_Classical_Physics\|Classical Physics by Balki]]
+		- (book) LandauL volume I 
+		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) 
+		- (short) [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
+	- Some math ✨ 
+		- Abstract Algebra by Benedict Gross
+		- Artin - Algebra
+		- [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) - an introduction to a lots of fields of math! (NOT a textbook but a really nice book)
+		- You can definitely do analysis here, its always a inculcating and ever increasing skill and knowledge-base. Jump below and find the references.
+	- I DECREE: DO MORE CLASSICAL!
+		- Fluid mechanics
+			- If you think you know what fluid mechanis is (from school, say), I guarantee that you do not!
+		- Electrodynamics
+			- (book) LandauL volume II - absolute necessary for special relativity and electrodynamics, and GR
+				- there’s no introduction to electrodynamics better than Paddy and LandauL
+			- for more theory Griffiths, and for more pain: Jackson
+			- [[Circuitry\|Circuitry]] (TODO)
+		- GR
+			- for properly doing GR, you’ll need a lot of pre-req, and its all super cool math! But for now a physics taste of the matter will just be smooth.
+			- General Relativity and Cosmology by T Paddy
+	- more math ✨ 
+		- [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+		- “Linear Algebra Done Right” by Sheldon Axler, Sheldon Axler’s Playlist [Linear Algebra Done Right - YouTube](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+	- (only if you wanna do quantum)
+		- Quantum Physics by Balki
+	- Now that you see how deep things are, go back and focus on the details
+		- Construct spaces and do algebra and analysis
+			- Tao Analysis vol I, II
+			- Apostol Mathematical Analysis
+			- Rudin Analysis
+		- Do more inside $\mathbb{R}^{n}$
+			- [[Just R n, only R n\|Just R n, only R n]] (TODO) < algebras, differential forms >
+			- Differential Geometry	by Claudio Arezzo
+		- Go outside of $\mathbb{R}^{n}$
+			- < Manifold theory >
+			- [[05 Inner-core/STUDY! xx0 Physics/FredericSchuller-International Winter School on Gravity and Light 2015/FredericSchuller-International Winter School on Gravity and Light 2015\|FredericSchuller-International Winter School on Gravity and Light 2015]]
+			- [[05 Inner-core/STUDY! xx0 Physics/FredericSchuller-Lectures on the Geometric Anatomy of Theoretical Physics/FredericSchuller-Lectures on the Geometric Anatomy of Theoretical Physics\|FredericSchuller-Lectures on the Geometric Anatomy of Theoretical Physics]]
+	- Apply your new-found knowledge
+		- [[05 Inner-core/STUDY! 0x1 Physics/FredericSchuller-Quantum Theory/FredericSchuller-Quantum Theory\|FredericSchuller-Quantum Theory]]
+		- Hamiltonian system and symplectic geometry
+- How to do lectures?
+	- Use https://obsidian.md to organize the amount of content/
+		- Copy the lecture note 
+		- Complete each lecture and tick the check box. 
+	- Make lecture notes
+		- in Obsidian.
+			- you’ll need to learn LaTeX and probably will need a drawing tablet
+		- in physical notebook.
+			- Scan the lecture notes as PDF into one file and save it inside your vault.
+			- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
+		- Filling pages upon pages and never returning back onto them is NOT the process. Return to the notes, think, and solve your own questions.
+- Look here:
+	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
+	-  [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
+	- [20 prerequisites for Quantum Mechanics (Non-relativistic) (riddyrayes.github.io)](https://riddyrayes.github.io/notes/20-prerequisites-for-quantum-mechanics/)
+	- (book) Paddy - Theoretical Astrophysics volumes I, II & III
+- Watch (any one or all even) these one lecture and tell me how can you not love this!! (don’t pay attention to the name of the video)
+	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
+	- [History of Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/watch?v=XxFGokyYo6g)
+
