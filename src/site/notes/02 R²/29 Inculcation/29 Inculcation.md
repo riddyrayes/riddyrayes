@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-r/29-inculcation/29-inculcation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/02-r/29-inculcation/29-inculcation/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
